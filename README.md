@@ -1,10 +1,10 @@
-## Hello World for P5.js
-#### by Scott Kildall
-January 6th, 2020
+## Simple Shape for P5.js
+#### by Jingyi Zhao
+February 4th, 2021
 
 
 ### Overview
-Simple Hello World text displau.
+Simple Simple Shape text displau.
 
 ### Technical Details
 
